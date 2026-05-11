@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আমি ভবঘুরে মানুষ, তুমি মাতাল হাওয়া
+> এই বুকের ভেতর শুধু তোমায় কাছে পাওয়া
+> অচিন সুরে আজ বাঁধলে আমার পরাণ
+> তোমার মাঝেই আমি খুঁজে পেলাম গান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
