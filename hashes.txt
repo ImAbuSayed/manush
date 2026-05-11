@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Manush
+
+This log tracks the cryptographic history and versioning for the song **Manush** (manush).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:21:15.090529 | `v1` | `5f6aa42b1d29b7aab894ea63a62d4ca10de80eb8ac89bc5541f1b2f0943f0e95` | `f7b772582a0569cd85f9a41069f1b755354055254fa77aa589073ca3f36fd90f` | `2026-05-11_manush-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
